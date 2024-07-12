@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DatabaseGYMModelStoreContainer" CdmEntityContainer="gestionSalleSprortEntities">
+    <EntitySetMapping Name="Adherent">
+      <EntityTypeMapping TypeName="DatabaseGYMModel.Adherent">
+        <MappingFragment StoreEntitySet="Adherent">
+          <ScalarProperty Name="reste" ColumnName="reste" />
+          <ScalarProperty Name="remarque" ColumnName="remarque" />
+          <ScalarProperty Name="idAdh" ColumnName="idAdh" />
+          <ScalarProperty Name="nomAdh" ColumnName="nomAdh" />
+          <ScalarProperty Name="prenomAdh" ColumnName="prenomAdh" />
+          <ScalarProperty Name="adress" ColumnName="adress" />
+          <ScalarProperty Name="telephone" ColumnName="telephone" />
+          <ScalarProperty Name="sexe" ColumnName="sexe" />
+          <ScalarProperty Name="dateInscription" ColumnName="dateInscription" />
+          <ScalarProperty Name="datePayement" ColumnName="datePayement" />
+          <ScalarProperty Name="dateNextPayement" ColumnName="dateNextPayement" />
+          <ScalarProperty Name="etatPyement" ColumnName="etatPyement" />
+          <ScalarProperty Name="pic" ColumnName="pic" />
+          <ScalarProperty Name="active" ColumnName="active" />
+          <ScalarProperty Name="dejatDesactiver" ColumnName="dejatDesactiver" />
+          <ScalarProperty Name="gym" ColumnName="gym" />
+          <ScalarProperty Name="sportCatg" ColumnName="sportCatg" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="benifice">
+      <EntityTypeMapping TypeName="DatabaseGYMModel.benifice">
+        <MappingFragment StoreEntitySet="benifice">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="NumFacture" ColumnName="NumFacture" />
+          <ScalarProperty Name="datepayement" ColumnName="datepayement" />
+          <ScalarProperty Name="somme" ColumnName="somme" />
+          <ScalarProperty Name="matriculeAdh" ColumnName="matriculeAdh" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="categorie">
+      <EntityTypeMapping TypeName="DatabaseGYMModel.categorie">
+        <MappingFragment StoreEntitySet="categorie">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="sportCateg" ColumnName="sportCateg" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="t_function">
+      <EntityTypeMapping TypeName="DatabaseGYMModel.t_function">
+        <MappingFragment StoreEntitySet="t_function">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="column1" ColumnName="column1" />
+          <ScalarProperty Name="column2" ColumnName="column2" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="utilisateur">
+      <EntityTypeMapping TypeName="DatabaseGYMModel.utilisateur">
+        <MappingFragment StoreEntitySet="utilisateur">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="licenceType" ColumnName="licenceType" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="motDePasse" ColumnName="motDePasse" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

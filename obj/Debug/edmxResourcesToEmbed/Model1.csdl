@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="gestionSportModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Adherent">
+    <Key>
+      <PropertyRef Name="idAdh" />
+    </Key>
+    <Property Name="idAdh" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nomAdh" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="prenomAdh" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="adress" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="telephone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="sexe" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="dateInscription" Type="DateTime" Precision="0" />
+    <Property Name="datePayement" Type="DateTime" Precision="0" />
+    <Property Name="dateNextPayement" Type="DateTime" Precision="0" />
+    <Property Name="etatPyement" Type="Boolean" />
+    <Property Name="pic" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="active" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="benifice">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="datepayement" Type="DateTime" Precision="0" />
+    <Property Name="somme" Type="Double" />
+    <Property Name="nomAdherent" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="utilisateur">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="licenceType" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="username" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="motDePasse" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="gestionSportEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Adherent" EntityType="Self.Adherent" />
+    <EntitySet Name="benifice" EntityType="Self.benifice" />
+    <EntitySet Name="utilisateur" EntityType="Self.utilisateur" />
+    <EntitySet Name="modeconnecter" EntityType="gestionSportModel.modeconnecter" />
+  </EntityContainer>
+  <EntityType Name="modeconnecter">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="username" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

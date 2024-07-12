@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="gestionSportModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Adherent">
+    <Key>
+      <PropertyRef Name="idAdh" />
+    </Key>
+    <Property Name="idAdh" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nomAdh" Type="nvarchar" MaxLength="50" />
+    <Property Name="prenomAdh" Type="nvarchar" MaxLength="50" />
+    <Property Name="adress" Type="nvarchar" MaxLength="50" />
+    <Property Name="telephone" Type="nvarchar" MaxLength="50" />
+    <Property Name="sexe" Type="nvarchar" MaxLength="50" />
+    <Property Name="dateInscription" Type="date" />
+    <Property Name="datePayement" Type="date" />
+    <Property Name="dateNextPayement" Type="date" />
+    <Property Name="etatPyement" Type="bit" />
+    <Property Name="pic" Type="image" />
+    <Property Name="active" Type="bit" />
+  </EntityType>
+  <EntityType Name="benifice">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nomAdherent" Type="nvarchar" MaxLength="50" />
+    <Property Name="datepayement" Type="date" />
+    <Property Name="somme" Type="float" />
+  </EntityType>
+  <EntityType Name="modeconnecter">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="username" Type="nvarchar" MaxLength="50" />
+    <Property Name="password" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="utilisateur">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="licenceType" Type="nvarchar" MaxLength="50" />
+    <Property Name="username" Type="nvarchar" MaxLength="50" />
+    <Property Name="motDePasse" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="gestionSportModelStoreContainer">
+    <EntitySet Name="Adherent" EntityType="Self.Adherent" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="benifice" EntityType="Self.benifice" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="modeconnecter" EntityType="Self.modeconnecter" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="utilisateur" EntityType="Self.utilisateur" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

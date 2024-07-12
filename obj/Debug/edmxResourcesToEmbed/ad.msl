@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="gestionSalleSprortModelStoreContainer" CdmEntityContainer="gestionSalleSprortEntities">
+    <EntitySetMapping Name="utilisateur">
+      <EntityTypeMapping TypeName="gestionSalleSprortModel.utilisateur">
+        <MappingFragment StoreEntitySet="utilisateur">
+          <ScalarProperty Name="licenceType" ColumnName="licenceType" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="motDePasse" ColumnName="motDePasse" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Adherent">
+      <EntityTypeMapping TypeName="gestionSalleSprortModel.Adherent">
+        <MappingFragment StoreEntitySet="Adherent">
+          <ScalarProperty Name="idAdh" ColumnName="idAdh" />
+          <ScalarProperty Name="nomAdh" ColumnName="nomAdh" />
+          <ScalarProperty Name="prenomAdh" ColumnName="prenomAdh" />
+          <ScalarProperty Name="adress" ColumnName="adress" />
+          <ScalarProperty Name="telephone" ColumnName="telephone" />
+          <ScalarProperty Name="sexe" ColumnName="sexe" />
+          <ScalarProperty Name="pic" ColumnName="pic" />
+          <ScalarProperty Name="dateNextPayement" ColumnName="dateNextPayement" />
+          <ScalarProperty Name="datePayement" ColumnName="datePayement" />
+          <ScalarProperty Name="dateInscription" ColumnName="dateInscription" />
+          <ScalarProperty Name="nbrMonth" ColumnName="nbrMonth" />
+          <ScalarProperty Name="sommePaye" ColumnName="sommePaye" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

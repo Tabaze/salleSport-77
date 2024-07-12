@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="gestionSportModelStoreContainer" CdmEntityContainer="gestionSportEntities">
+    <EntitySetMapping Name="Adherent">
+      <EntityTypeMapping TypeName="gestionSportModel.Adherent">
+        <MappingFragment StoreEntitySet="Adherent">
+          <ScalarProperty Name="idAdh" ColumnName="idAdh" />
+          <ScalarProperty Name="nomAdh" ColumnName="nomAdh" />
+          <ScalarProperty Name="prenomAdh" ColumnName="prenomAdh" />
+          <ScalarProperty Name="adress" ColumnName="adress" />
+          <ScalarProperty Name="telephone" ColumnName="telephone" />
+          <ScalarProperty Name="sexe" ColumnName="sexe" />
+          <ScalarProperty Name="dateInscription" ColumnName="dateInscription" />
+          <ScalarProperty Name="datePayement" ColumnName="datePayement" />
+          <ScalarProperty Name="dateNextPayement" ColumnName="dateNextPayement" />
+          <ScalarProperty Name="etatPyement" ColumnName="etatPyement" />
+          <ScalarProperty Name="pic" ColumnName="pic" />
+          <ScalarProperty Name="active" ColumnName="active" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="benifice">
+      <EntityTypeMapping TypeName="gestionSportModel.benifice">
+        <MappingFragment StoreEntitySet="benifice">
+          <ScalarProperty Name="nomAdherent" ColumnName="nomAdherent" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="datepayement" ColumnName="datepayement" />
+          <ScalarProperty Name="somme" ColumnName="somme" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="utilisateur">
+      <EntityTypeMapping TypeName="gestionSportModel.utilisateur">
+        <MappingFragment StoreEntitySet="utilisateur">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="licenceType" ColumnName="licenceType" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="motDePasse" ColumnName="motDePasse" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="modeconnecter">
+      <EntityTypeMapping TypeName="gestionSportModel.modeconnecter">
+        <MappingFragment StoreEntitySet="modeconnecter">
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

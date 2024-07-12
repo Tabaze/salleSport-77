@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="gestionSalleSprortModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="utilisateur">
+    <Key>
+      <PropertyRef Name="username" />
+    </Key>
+    <Property Name="licenceType" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="username" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="motDePasse" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Adherent">
+    <Key>
+      <PropertyRef Name="idAdh" />
+    </Key>
+    <Property Name="idAdh" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nomAdh" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="prenomAdh" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="adress" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="telephone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="sexe" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="pic" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="dateNextPayement" Type="DateTime" Precision="0" />
+    <Property Name="datePayement" Type="DateTime" Precision="0" />
+    <Property Name="dateInscription" Type="DateTime" Precision="0" />
+    <Property Name="nbrMonth" Type="Int32" />
+    <Property Name="sommePaye" Type="Double" />
+  </EntityType>
+  <EntityContainer Name="gestionSalleSprortEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="utilisateur" EntityType="Self.utilisateur" />
+    <EntitySet Name="Adherent" EntityType="Self.Adherent" />
+  </EntityContainer>
+</Schema>

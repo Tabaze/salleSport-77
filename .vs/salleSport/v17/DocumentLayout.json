@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\salleSport 77\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E746D2F5-1107-4DBD-A730-68877F468618}|salleSport.csproj|D:\\GitHub\\salleSport 77\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E746D2F5-1107-4DBD-A730-68877F468618}|salleSport.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E746D2F5-1107-4DBD-A730-68877F468618}|salleSport.csproj|d:\\github\\sallesport 77\\payement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E746D2F5-1107-4DBD-A730-68877F468618}|salleSport.csproj|solutionrelative:payement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E746D2F5-1107-4DBD-A730-68877F468618}|salleSport.csproj|d:\\github\\sallesport 77\\payement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E746D2F5-1107-4DBD-A730-68877F468618}|salleSport.csproj|solutionrelative:payement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E746D2F5-1107-4DBD-A730-68877F468618}|salleSport.csproj|D:\\GitHub\\salleSport 77\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E746D2F5-1107-4DBD-A730-68877F468618}|salleSport.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E746D2F5-1107-4DBD-A730-68877F468618}|salleSport.csproj|D:\\GitHub\\salleSport 77\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E746D2F5-1107-4DBD-A730-68877F468618}|salleSport.csproj|solutionrelative:configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E746D2F5-1107-4DBD-A730-68877F468618}|salleSport.csproj|D:\\GitHub\\salleSport 77\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E746D2F5-1107-4DBD-A730-68877F468618}|salleSport.csproj|solutionrelative:configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "payement.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\salleSport 77\\payement.cs",
+              "RelativeDocumentMoniker": "payement.cs",
+              "ToolTip": "D:\\GitHub\\salleSport 77\\payement.cs [Design]",
+              "RelativeToolTip": "payement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:47:00.882Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "payement.cs",
+              "DocumentMoniker": "D:\\GitHub\\salleSport 77\\payement.cs",
+              "RelativeDocumentMoniker": "payement.cs",
+              "ToolTip": "D:\\GitHub\\salleSport 77\\payement.cs",
+              "RelativeToolTip": "payement.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwCEAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:41:09.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.cs",
+              "DocumentMoniker": "D:\\GitHub\\salleSport 77\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "D:\\GitHub\\salleSport 77\\login.cs",
+              "RelativeToolTip": "login.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAA6wF0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:32:28.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\salleSport 77\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "D:\\GitHub\\salleSport 77\\login.cs [Design]",
+              "RelativeToolTip": "login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:32:15.617Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "configuration.cs",
+              "DocumentMoniker": "D:\\GitHub\\salleSport 77\\configuration.cs",
+              "RelativeDocumentMoniker": "configuration.cs",
+              "ToolTip": "D:\\GitHub\\salleSport 77\\configuration.cs",
+              "RelativeToolTip": "configuration.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAA4wFAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:15:03.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "configuration.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub\\salleSport 77\\configuration.cs",
+              "RelativeDocumentMoniker": "configuration.cs",
+              "ToolTip": "D:\\GitHub\\salleSport 77\\configuration.cs [Design]",
+              "RelativeToolTip": "configuration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:15:01.613Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

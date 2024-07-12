@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="DatabaseGYMModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Adherent">
+          <Key>
+            <PropertyRef Name="idAdh" />
+          </Key>
+          <Property Name="idAdh" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="nomAdh" Type="nvarchar" MaxLength="50" />
+          <Property Name="prenomAdh" Type="nvarchar" MaxLength="50" />
+          <Property Name="adress" Type="nvarchar" MaxLength="50" />
+          <Property Name="telephone" Type="nvarchar" MaxLength="50" />
+          <Property Name="sexe" Type="nvarchar" MaxLength="50" />
+          <Property Name="dateInscription" Type="date" />
+          <Property Name="datePayement" Type="date" />
+          <Property Name="dateNextPayement" Type="date" />
+          <Property Name="etatPyement" Type="bit" />
+          <Property Name="pic" Type="image" />
+          <Property Name="active" Type="bit" />
+          <Property Name="dejatDesactiver" Type="bit" />
+          <Property Name="gym" Type="bit" />
+          <Property Name="sportCatg" Type="nvarchar" MaxLength="50" />
+          <Property Name="remarque" Type="nvarchar(max)" />
+          <Property Name="reste" Type="int" />
+        </EntityType>
+        <EntityType Name="benifice">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="NumFacture" Type="nvarchar" MaxLength="50" />
+          <Property Name="datepayement" Type="date" />
+          <Property Name="somme" Type="float" />
+          <Property Name="matriculeAdh" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="categorie">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="sportCateg" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="t_function">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" Nullable="false" />
+          <Property Name="column1" Type="nvarchar" MaxLength="50" />
+          <Property Name="column2" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="utilisateur">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="licenceType" Type="nvarchar" MaxLength="50" />
+          <Property Name="username" Type="nvarchar" MaxLength="50" />
+          <Property Name="motDePasse" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityContainer Name="DatabaseGYMModelStoreContainer">
+          <EntitySet Name="Adherent" EntityType="Self.Adherent" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="benifice" EntityType="Self.benifice" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="categorie" EntityType="Self.categorie" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="t_function" EntityType="Self.t_function" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="utilisateur" EntityType="Self.utilisateur" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="DatabaseGYMModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Adherent">
+          <Key>
+            <PropertyRef Name="idAdh" />
+          </Key>
+          <Property Name="idAdh" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="nomAdh" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="prenomAdh" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="adress" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="telephone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="sexe" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="dateInscription" Type="DateTime" Precision="0" />
+          <Property Name="datePayement" Type="DateTime" Precision="0" />
+          <Property Name="dateNextPayement" Type="DateTime" Precision="0" />
+          <Property Name="etatPyement" Type="Boolean" />
+          <Property Name="pic" Type="Binary" MaxLength="Max" FixedLength="false" />
+          <Property Name="active" Type="Boolean" />
+          <Property Name="dejatDesactiver" Type="Boolean" />
+          <Property Name="gym" Type="Boolean" />
+          <Property Name="sportCatg" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="remarque" Type="String" Unicode="true" FixedLength="false" MaxLength="Max" />
+          <Property Name="reste" Type="Int32" />
+        </EntityType>
+        <EntityType Name="benifice">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="NumFacture" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="datepayement" Type="DateTime" Precision="0" />
+          <Property Name="somme" Type="Double" />
+          <Property Name="matriculeAdh" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="categorie">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="sportCateg" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="t_function">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" />
+          <Property Name="column1" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="column2" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="utilisateur">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="licenceType" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="username" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="motDePasse" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityContainer Name="gestionSalleSprortEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Adherent" EntityType="Self.Adherent" />
+          <EntitySet Name="benifice" EntityType="Self.benifice" />
+          <EntitySet Name="categorie" EntityType="Self.categorie" />
+          <EntitySet Name="t_function" EntityType="Self.t_function" />
+          <EntitySet Name="utilisateur" EntityType="Self.utilisateur" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="DatabaseGYMModelStoreContainer" CdmEntityContainer="gestionSalleSprortEntities">
+          <EntitySetMapping Name="Adherent">
+            <EntityTypeMapping TypeName="DatabaseGYMModel.Adherent">
+              <MappingFragment StoreEntitySet="Adherent">
+                <ScalarProperty Name="reste" ColumnName="reste" />
+                <ScalarProperty Name="remarque" ColumnName="remarque" />
+                <ScalarProperty Name="idAdh" ColumnName="idAdh" />
+                <ScalarProperty Name="nomAdh" ColumnName="nomAdh" />
+                <ScalarProperty Name="prenomAdh" ColumnName="prenomAdh" />
+                <ScalarProperty Name="adress" ColumnName="adress" />
+                <ScalarProperty Name="telephone" ColumnName="telephone" />
+                <ScalarProperty Name="sexe" ColumnName="sexe" />
+                <ScalarProperty Name="dateInscription" ColumnName="dateInscription" />
+                <ScalarProperty Name="datePayement" ColumnName="datePayement" />
+                <ScalarProperty Name="dateNextPayement" ColumnName="dateNextPayement" />
+                <ScalarProperty Name="etatPyement" ColumnName="etatPyement" />
+                <ScalarProperty Name="pic" ColumnName="pic" />
+                <ScalarProperty Name="active" ColumnName="active" />
+                <ScalarProperty Name="dejatDesactiver" ColumnName="dejatDesactiver" />
+                <ScalarProperty Name="gym" ColumnName="gym" />
+                <ScalarProperty Name="sportCatg" ColumnName="sportCatg" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="benifice">
+            <EntityTypeMapping TypeName="DatabaseGYMModel.benifice">
+              <MappingFragment StoreEntitySet="benifice">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="NumFacture" ColumnName="NumFacture" />
+                <ScalarProperty Name="datepayement" ColumnName="datepayement" />
+                <ScalarProperty Name="somme" ColumnName="somme" />
+                <ScalarProperty Name="matriculeAdh" ColumnName="matriculeAdh" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="categorie">
+            <EntityTypeMapping TypeName="DatabaseGYMModel.categorie">
+              <MappingFragment StoreEntitySet="categorie">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="sportCateg" ColumnName="sportCateg" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="t_function">
+            <EntityTypeMapping TypeName="DatabaseGYMModel.t_function">
+              <MappingFragment StoreEntitySet="t_function">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="column1" ColumnName="column1" />
+                <ScalarProperty Name="column2" ColumnName="column2" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="utilisateur">
+            <EntityTypeMapping TypeName="DatabaseGYMModel.utilisateur">
+              <MappingFragment StoreEntitySet="utilisateur">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="licenceType" ColumnName="licenceType" />
+                <ScalarProperty Name="username" ColumnName="username" />
+                <ScalarProperty Name="motDePasse" ColumnName="motDePasse" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Aucun" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

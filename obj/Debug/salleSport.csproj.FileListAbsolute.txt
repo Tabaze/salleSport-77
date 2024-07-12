@@ -1,0 +1,1313 @@
+C:\Users\zech\source\repos\salleSport\bin\Debug\salleSport.exe.config
+C:\Users\zech\source\repos\salleSport\bin\Debug\salleSport.exe
+C:\Users\zech\source\repos\salleSport\bin\Debug\salleSport.pdb
+C:\Users\zech\source\repos\salleSport\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\zech\source\repos\salleSport\bin\Debug\EntityFramework.dll
+C:\Users\zech\source\repos\salleSport\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zech\source\repos\salleSport\bin\Debug\MetroFramework.Design.dll
+C:\Users\zech\source\repos\salleSport\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\zech\source\repos\salleSport\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\zech\source\repos\salleSport\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\zech\source\repos\salleSport\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\zech\source\repos\salleSport\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\zech\source\repos\salleSport\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\zech\source\repos\salleSport\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\zech\source\repos\salleSport\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\zech\source\repos\salleSport\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\zech\source\repos\salleSport\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\zech\source\repos\salleSport\bin\Debug\EnvDTE.dll
+C:\Users\zech\source\repos\salleSport\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\zech\source\repos\salleSport\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\zech\source\repos\salleSport\bin\Debug\stdole.dll
+C:\Users\zech\source\repos\salleSport\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\zech\source\repos\salleSport\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\zech\source\repos\salleSport\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\zech\source\repos\salleSport\bin\Debug\Microsoft.MSXML.dll
+C:\Users\zech\source\repos\salleSport\bin\Debug\EntityFramework.xml
+C:\Users\zech\source\repos\salleSport\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zech\source\repos\salleSport\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\zech\source\repos\salleSport\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\zech\source\repos\salleSport\obj\Debug\salleSport.csprojAssemblyReference.cache
+C:\Users\zech\source\repos\salleSport\obj\Debug\salleSport.backUp.resources
+C:\Users\zech\source\repos\salleSport\obj\Debug\salleSport.bncf.resources
+C:\Users\zech\source\repos\salleSport\obj\Debug\salleSport.configuration.resources
+C:\Users\zech\source\repos\salleSport\obj\Debug\salleSport.createUser.resources
+C:\Users\zech\source\repos\salleSport\obj\Debug\salleSport.listAdh.resources
+C:\Users\zech\source\repos\salleSport\obj\Debug\salleSport.login.resources
+C:\Users\zech\source\repos\salleSport\obj\Debug\salleSport.addAdhrent.resources
+C:\Users\zech\source\repos\salleSport\obj\Debug\salleSport.menu.resources
+C:\Users\zech\source\repos\salleSport\obj\Debug\salleSport.miseAjourlist.resources
+C:\Users\zech\source\repos\salleSport\obj\Debug\salleSport.Properties.Resources.resources
+C:\Users\zech\source\repos\salleSport\obj\Debug\salleSport.updatloginUser.resources
+C:\Users\zech\source\repos\salleSport\obj\Debug\salleSport.csproj.GenerateResource.cache
+C:\Users\zech\source\repos\salleSport\obj\Debug\salleSport.csproj.CopyComplete
+C:\Users\zech\source\repos\salleSport\obj\Debug\salleSport.exe
+C:\Users\zech\source\repos\salleSport\obj\Debug\salleSport.pdb
+C:\Users\zech\source\repos\salleSport\bin\Debug\Interop.WMPLib.dll
+C:\Users\zech\source\repos\salleSport\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\zech\source\repos\salleSport\obj\Debug\Interop.WMPLib.dll
+C:\Users\zech\source\repos\salleSport\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\zech\source\repos\salleSport\obj\Debug\salleSport.csproj.ResolveComReference.cache
+C:\Users\zech\source\repos\salleSport\obj\Debug\salleSport.payement.resources
+C:\Users\zech\source\repos\salleSport\obj\Debug\salleSport.updatList.resources
+D:\zech\projet\salleSport\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\zech\projet\salleSport\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\zech\projet\salleSport\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\zech\projet\salleSport\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\zech\projet\salleSport\bin\Debug\salleSport.exe.config
+D:\zech\projet\salleSport\bin\Debug\salleSport.exe
+D:\zech\projet\salleSport\bin\Debug\salleSport.pdb
+D:\zech\projet\salleSport\bin\Debug\Bunifu_UI_v1.52.dll
+D:\zech\projet\salleSport\bin\Debug\EntityFramework.dll
+D:\zech\projet\salleSport\bin\Debug\EntityFramework.SqlServer.dll
+D:\zech\projet\salleSport\bin\Debug\MetroFramework.Design.dll
+D:\zech\projet\salleSport\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\zech\projet\salleSport\bin\Debug\Microsoft.ReportViewer.Common.resources.dll
+D:\zech\projet\salleSport\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\zech\projet\salleSport\bin\Debug\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\zech\projet\salleSport\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\zech\projet\salleSport\bin\Debug\Microsoft.ReportViewer.Design.resources.dll
+D:\zech\projet\salleSport\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\zech\projet\salleSport\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\zech\projet\salleSport\bin\Debug\Microsoft.ReportViewer.WinForms.resources.dll
+D:\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\zech\projet\salleSport\bin\Debug\EnvDTE.dll
+D:\zech\projet\salleSport\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\zech\projet\salleSport\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\zech\projet\salleSport\bin\Debug\stdole.dll
+D:\zech\projet\salleSport\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\zech\projet\salleSport\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\zech\projet\salleSport\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\zech\projet\salleSport\bin\Debug\Microsoft.MSXML.dll
+D:\zech\projet\salleSport\bin\Debug\EntityFramework.xml
+D:\zech\projet\salleSport\bin\Debug\EntityFramework.SqlServer.xml
+D:\zech\projet\salleSport\bin\Debug\fr\EntityFramework.resources.dll
+D:\zech\projet\salleSport\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+D:\zech\projet\salleSport\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\zech\projet\salleSport\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\zech\projet\salleSport\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\zech\projet\salleSport\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\zech\projet\salleSport\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\zech\projet\salleSport\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\zech\projet\salleSport\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\zech\projet\salleSport\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\zech\projet\salleSport\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\zech\projet\salleSport\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\zech\projet\salleSport\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\zech\projet\salleSport\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\zech\projet\salleSport\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\zech\projet\salleSport\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\zech\projet\salleSport\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\zech\projet\salleSport\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\zech\projet\salleSport\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\zech\projet\salleSport\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\zech\projet\salleSport\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\zech\projet\salleSport\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\zech\projet\salleSport\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\zech\projet\salleSport\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\zech\projet\salleSport\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\zech\projet\salleSport\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\zech\projet\salleSport\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\zech\projet\salleSport\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\zech\projet\salleSport\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\zech\projet\salleSport\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\zech\projet\salleSport\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\zech\projet\salleSport\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\zech\projet\salleSport\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\zech\projet\salleSport\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\zech\projet\salleSport\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\zech\projet\salleSport\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\zech\projet\salleSport\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\zech\projet\salleSport\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\zech\projet\salleSport\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\zech\projet\salleSport\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\zech\projet\salleSport\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\zech\projet\salleSport\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\zech\projet\salleSport\bin\Debug\Interop.WMPLib.dll
+D:\zech\projet\salleSport\bin\Debug\AxInterop.WMPLib.dll
+D:\zech\projet\salleSport\obj\Debug\salleSport.csprojAssemblyReference.cache
+D:\zech\projet\salleSport\obj\Debug\Interop.WMPLib.dll
+D:\zech\projet\salleSport\obj\Debug\AxInterop.WMPLib.dll
+D:\zech\projet\salleSport\obj\Debug\salleSport.csproj.ResolveComReference.cache
+D:\zech\projet\salleSport\obj\Debug\salleSport.backUp.resources
+D:\zech\projet\salleSport\obj\Debug\salleSport.bncf.resources
+D:\zech\projet\salleSport\obj\Debug\salleSport.configuration.resources
+D:\zech\projet\salleSport\obj\Debug\salleSport.createUser.resources
+D:\zech\projet\salleSport\obj\Debug\salleSport.payement.resources
+D:\zech\projet\salleSport\obj\Debug\salleSport.listAdh.resources
+D:\zech\projet\salleSport\obj\Debug\salleSport.login.resources
+D:\zech\projet\salleSport\obj\Debug\salleSport.addAdhrent.resources
+D:\zech\projet\salleSport\obj\Debug\salleSport.menu.resources
+D:\zech\projet\salleSport\obj\Debug\salleSport.miseAjourlist.resources
+D:\zech\projet\salleSport\obj\Debug\salleSport.Properties.Resources.resources
+D:\zech\projet\salleSport\obj\Debug\salleSport.updatList.resources
+D:\zech\projet\salleSport\obj\Debug\salleSport.updatloginUser.resources
+D:\zech\projet\salleSport\obj\Debug\salleSport.csproj.GenerateResource.cache
+D:\zech\projet\salleSport\obj\Debug\salleSport.csproj.CopyComplete
+D:\zech\projet\salleSport\obj\Debug\salleSport.exe
+D:\zech\projet\salleSport\obj\Debug\salleSport.pdb
+D:\---\zech\projet\salleSport\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\---\zech\projet\salleSport\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\---\zech\projet\salleSport\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\---\zech\projet\salleSport\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\---\zech\projet\salleSport\bin\Debug\gestionSport.mdf
+D:\---\zech\projet\salleSport\bin\Debug\gestionSport_log.ldf
+D:\---\zech\projet\salleSport\bin\Debug\salleSport.exe.config
+D:\---\zech\projet\salleSport\bin\Debug\salleSport.exe
+D:\---\zech\projet\salleSport\bin\Debug\salleSport.pdb
+D:\---\zech\projet\salleSport\bin\Debug\EntityFramework.dll
+D:\---\zech\projet\salleSport\bin\Debug\EntityFramework.SqlServer.dll
+D:\---\zech\projet\salleSport\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\---\zech\projet\salleSport\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\---\zech\projet\salleSport\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\---\zech\projet\salleSport\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\---\zech\projet\salleSport\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\---\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\---\zech\projet\salleSport\bin\Debug\EnvDTE.dll
+D:\---\zech\projet\salleSport\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\---\zech\projet\salleSport\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\---\zech\projet\salleSport\bin\Debug\stdole.dll
+D:\---\zech\projet\salleSport\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\---\zech\projet\salleSport\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\---\zech\projet\salleSport\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\---\zech\projet\salleSport\bin\Debug\Microsoft.MSXML.dll
+D:\---\zech\projet\salleSport\bin\Debug\EntityFramework.xml
+D:\---\zech\projet\salleSport\bin\Debug\EntityFramework.SqlServer.xml
+D:\---\zech\projet\salleSport\bin\Debug\fr\EntityFramework.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\---\zech\projet\salleSport\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\---\zech\projet\salleSport\obj\Debug\Interop.WMPLib.dll
+D:\---\zech\projet\salleSport\obj\Debug\salleSport.csproj.ResolveComReference.cache
+D:\---\zech\projet\salleSport\obj\Debug\salleSport.backUp.resources
+D:\---\zech\projet\salleSport\obj\Debug\salleSport.bncf.resources
+D:\---\zech\projet\salleSport\obj\Debug\salleSport.configuration.resources
+D:\---\zech\projet\salleSport\obj\Debug\salleSport.createUser.resources
+D:\---\zech\projet\salleSport\obj\Debug\salleSport.payement.resources
+D:\---\zech\projet\salleSport\obj\Debug\salleSport.listAdh.resources
+D:\---\zech\projet\salleSport\obj\Debug\salleSport.login.resources
+D:\---\zech\projet\salleSport\obj\Debug\salleSport.addAdhrent.resources
+D:\---\zech\projet\salleSport\obj\Debug\salleSport.menu.resources
+D:\---\zech\projet\salleSport\obj\Debug\salleSport.miseAjourlist.resources
+D:\---\zech\projet\salleSport\obj\Debug\salleSport.Properties.Resources.resources
+D:\---\zech\projet\salleSport\obj\Debug\salleSport.updatList.resources
+D:\---\zech\projet\salleSport\obj\Debug\salleSport.updatloginUser.resources
+D:\---\zech\projet\salleSport\obj\Debug\salleSport.csproj.GenerateResource.cache
+D:\---\zech\projet\salleSport\obj\Debug\salleSport.csproj.CoreCompileInputs.cache
+D:\---\zech\projet\salleSport\obj\Debug\salleSport.csproj.CopyComplete
+D:\---\zech\projet\salleSport\obj\Debug\salleSport.exe
+D:\---\zech\projet\salleSport\obj\Debug\salleSport.pdb
+D:\---z\zech\projet\salleSport\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\---z\zech\projet\salleSport\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\---z\zech\projet\salleSport\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\---z\zech\projet\salleSport\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\---z\zech\projet\salleSport\bin\Debug\gestionSport.mdf
+D:\---z\zech\projet\salleSport\bin\Debug\gestionSport_log.ldf
+D:\---z\zech\projet\salleSport\bin\Debug\salleSport.exe.config
+D:\---z\zech\projet\salleSport\bin\Debug\salleSport.exe
+D:\---z\zech\projet\salleSport\bin\Debug\EntityFramework.dll
+D:\---z\zech\projet\salleSport\bin\Debug\EntityFramework.SqlServer.dll
+D:\---z\zech\projet\salleSport\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\---z\zech\projet\salleSport\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\---z\zech\projet\salleSport\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\---z\zech\projet\salleSport\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\---z\zech\projet\salleSport\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\---z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\---z\zech\projet\salleSport\bin\Debug\EnvDTE.dll
+D:\---z\zech\projet\salleSport\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\---z\zech\projet\salleSport\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\---z\zech\projet\salleSport\bin\Debug\stdole.dll
+D:\---z\zech\projet\salleSport\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\---z\zech\projet\salleSport\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\---z\zech\projet\salleSport\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\---z\zech\projet\salleSport\bin\Debug\Microsoft.MSXML.dll
+D:\---z\zech\projet\salleSport\bin\Debug\EntityFramework.xml
+D:\---z\zech\projet\salleSport\bin\Debug\EntityFramework.SqlServer.xml
+D:\---z\zech\projet\salleSport\bin\Debug\fr\EntityFramework.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\---z\zech\projet\salleSport\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\---z\zech\projet\salleSport\obj\Debug\salleSport.csprojAssemblyReference.cache
+D:\---z\zech\projet\salleSport\obj\Debug\Interop.WMPLib.dll
+D:\---z\zech\projet\salleSport\obj\Debug\salleSport.csproj.ResolveComReference.cache
+D:\---z\zech\projet\salleSport\obj\Debug\salleSport.backUp.resources
+D:\---z\zech\projet\salleSport\obj\Debug\salleSport.bncf.resources
+D:\---z\zech\projet\salleSport\obj\Debug\salleSport.configuration.resources
+D:\---z\zech\projet\salleSport\obj\Debug\salleSport.createUser.resources
+D:\---z\zech\projet\salleSport\obj\Debug\salleSport.payement.resources
+D:\---z\zech\projet\salleSport\obj\Debug\salleSport.listAdh.resources
+D:\---z\zech\projet\salleSport\obj\Debug\salleSport.login.resources
+D:\---z\zech\projet\salleSport\obj\Debug\salleSport.addAdhrent.resources
+D:\---z\zech\projet\salleSport\obj\Debug\salleSport.menu.resources
+D:\---z\zech\projet\salleSport\obj\Debug\salleSport.miseAjourlist.resources
+D:\---z\zech\projet\salleSport\obj\Debug\salleSport.Properties.Resources.resources
+D:\---z\zech\projet\salleSport\obj\Debug\salleSport.updatList.resources
+D:\---z\zech\projet\salleSport\obj\Debug\salleSport.updatloginUser.resources
+D:\---z\zech\projet\salleSport\obj\Debug\salleSport.csproj.GenerateResource.cache
+D:\---z\zech\projet\salleSport\obj\Debug\salleSport.csproj.CoreCompileInputs.cache
+D:\---z\zech\projet\salleSport\obj\Debug\salleSport.csproj.CopyComplete
+D:\---z\zech\projet\salleSport\obj\Debug\salleSport.exe
+D:\---z\zech\projet\salleSport\obj\Debug\salleSport.pdb
+D:\---z\zech\projet\salleSport\bin\Debug\salleSport.pdb
+D:\z\zech\projet\salleSport\obj\Debug\salleSport.exe.config
+D:\z\zech\projet\salleSport\obj\Debug\Interop.WMPLib.dll
+D:\z\zech\projet\salleSport\obj\Debug\salleSport.csproj.ResolveComReference.cache
+D:\z\zech\projet\salleSport\obj\Debug\salleSport.backUp.resources
+D:\z\zech\projet\salleSport\obj\Debug\salleSport.categoryOfSport.resources
+D:\z\zech\projet\salleSport\obj\Debug\salleSport.configuration.resources
+D:\z\zech\projet\salleSport\obj\Debug\salleSport.createUser.resources
+D:\z\zech\projet\salleSport\obj\Debug\salleSport.payement.resources
+D:\z\zech\projet\salleSport\obj\Debug\salleSport.login.resources
+D:\z\zech\projet\salleSport\obj\Debug\salleSport.addAdhrent.resources
+D:\z\zech\projet\salleSport\obj\Debug\salleSport.menu.resources
+D:\z\zech\projet\salleSport\obj\Debug\salleSport.Properties.Resources.resources
+D:\z\zech\projet\salleSport\obj\Debug\salleSport.updatList.resources
+D:\z\zech\projet\salleSport\obj\Debug\salleSport.updatloginUser.resources
+D:\z\zech\projet\salleSport\obj\Debug\salleSport.csproj.GenerateResource.cache
+D:\z\zech\projet\salleSport\obj\Debug\salleSport.csproj.CoreCompileInputs.cache
+D:\z\zech\projet\salleSport\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\z\zech\projet\salleSport\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\z\zech\projet\salleSport\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\z\zech\projet\salleSport\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\z\zech\projet\salleSport\bin\Debug\grpc_csharp_ext.x86.dll
+D:\z\zech\projet\salleSport\bin\Debug\grpc_csharp_ext.x64.dll
+D:\z\zech\projet\salleSport\bin\Debug\libgrpc_csharp_ext.x64.so
+D:\z\zech\projet\salleSport\bin\Debug\libgrpc_csharp_ext.x64.dylib
+D:\z\zech\projet\salleSport\bin\Debug\DatabaseGYM.mdf
+D:\z\zech\projet\salleSport\bin\Debug\DatabaseGYM_log.ldf
+D:\z\zech\projet\salleSport\bin\Debug\App.config
+D:\z\zech\projet\salleSport\bin\Debug\salleSport.exe.config
+D:\z\zech\projet\salleSport\bin\Debug\salleSport.exe
+D:\z\zech\projet\salleSport\bin\Debug\salleSport.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Bunifu_UI_v1.52.dll
+D:\z\zech\projet\salleSport\bin\Debug\EntityFramework.dll
+D:\z\zech\projet\salleSport\bin\Debug\EntityFramework.SqlServer.dll
+D:\z\zech\projet\salleSport\bin\Debug\Grpc.Core.Api.dll
+D:\z\zech\projet\salleSport\bin\Debug\Grpc.Core.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.Identity.Client.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Assessment.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\z\zech\projet\salleSport\bin\Debug\Newtonsoft.Json.dll
+D:\z\zech\projet\salleSport\bin\Debug\System.Buffers.dll
+D:\z\zech\projet\salleSport\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\z\zech\projet\salleSport\bin\Debug\System.Memory.dll
+D:\z\zech\projet\salleSport\bin\Debug\System.Numerics.Vectors.dll
+D:\z\zech\projet\salleSport\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\z\zech\projet\salleSport\bin\Debug\EntityFramework.xml
+D:\z\zech\projet\salleSport\bin\Debug\EntityFramework.SqlServer.xml
+D:\z\zech\projet\salleSport\bin\Debug\Grpc.Core.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Grpc.Core.xml
+D:\z\zech\projet\salleSport\bin\Debug\Grpc.Core.Api.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Grpc.Core.Api.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.Identity.Client.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Assessment.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Dmf.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.SqlParser.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.SqlParser.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Smo.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Smo.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\z\zech\projet\salleSport\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\z\zech\projet\salleSport\bin\Debug\Newtonsoft.Json.xml
+D:\z\zech\projet\salleSport\bin\Debug\System.Buffers.xml
+D:\z\zech\projet\salleSport\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\z\zech\projet\salleSport\bin\Debug\System.Memory.xml
+D:\z\zech\projet\salleSport\bin\Debug\System.Numerics.Vectors.xml
+D:\z\zech\projet\salleSport\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\z\zech\projet\salleSport\bin\Debug\fr\EntityFramework.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\z\zech\projet\salleSport\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\z\zech\projet\salleSport\obj\Debug\salleSport.csprojAssemblyReference.cache
+D:\z\zech\projet\salleSport\obj\Debug\salleSport.csproj.CopyComplete
+D:\z\zech\projet\salleSport\obj\Debug\salleSport.exe
+D:\z\zech\projet\salleSport\obj\Debug\salleSport.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\DatabaseGYM.mdf
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\DatabaseGYM_log.ldf
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\App.config
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\salleSport.exe.config
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\salleSport.exe
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\salleSport.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Grpc.Core.Api.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Grpc.Core.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\System.Memory.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Grpc.Core.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Grpc.Core.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Grpc.Core.Api.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Assessment.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.SqlParser.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.SqlParser.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\System.Memory.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\obj\Debug\salleSport.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\salleSportV2\salleSport\obj\Debug\salleSport.exe.config
+C:\Users\DELL\Downloads\salleSportV2\salleSport\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Downloads\salleSportV2\salleSport\obj\Debug\salleSport.csproj.ResolveComReference.cache
+C:\Users\DELL\Downloads\salleSportV2\salleSport\obj\Debug\salleSport.backUp.resources
+C:\Users\DELL\Downloads\salleSportV2\salleSport\obj\Debug\salleSport.categoryOfSport.resources
+C:\Users\DELL\Downloads\salleSportV2\salleSport\obj\Debug\salleSport.configuration.resources
+C:\Users\DELL\Downloads\salleSportV2\salleSport\obj\Debug\salleSport.createUser.resources
+C:\Users\DELL\Downloads\salleSportV2\salleSport\obj\Debug\salleSport.payement.resources
+C:\Users\DELL\Downloads\salleSportV2\salleSport\obj\Debug\salleSport.login.resources
+C:\Users\DELL\Downloads\salleSportV2\salleSport\obj\Debug\salleSport.addAdhrent.resources
+C:\Users\DELL\Downloads\salleSportV2\salleSport\obj\Debug\salleSport.menu.resources
+C:\Users\DELL\Downloads\salleSportV2\salleSport\obj\Debug\salleSport.Properties.Resources.resources
+C:\Users\DELL\Downloads\salleSportV2\salleSport\obj\Debug\salleSport.updatList.resources
+C:\Users\DELL\Downloads\salleSportV2\salleSport\obj\Debug\salleSport.updatloginUser.resources
+C:\Users\DELL\Downloads\salleSportV2\salleSport\obj\Debug\salleSport.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\salleSportV2\salleSport\obj\Debug\salleSport.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\salleSportV2\salleSport\obj\Debug\salleSport.csproj.CopyComplete
+C:\Users\DELL\Downloads\salleSportV2\salleSport\obj\Debug\salleSport.exe
+C:\Users\DELL\Downloads\salleSportV2\salleSport\obj\Debug\salleSport.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\DatabaseGYM.mdf
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\DatabaseGYM_log.ldf
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\App.config
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\salleSport.exe.config
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\salleSport.exe
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\salleSport.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Grpc.Core.Api.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Grpc.Core.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\System.Memory.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Grpc.Core.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Grpc.Core.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Grpc.Core.Api.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Assessment.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.SqlParser.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.SqlParser.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\System.Memory.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\obj\Debug\salleSport.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\salleSportV2\salleSport\obj\Debug\salleSport.exe.config
+C:\Users\DELL\Desktop\salleSportV2\salleSport\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport\obj\Debug\salleSport.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\salleSportV2\salleSport\obj\Debug\salleSport.backUp.resources
+C:\Users\DELL\Desktop\salleSportV2\salleSport\obj\Debug\salleSport.categoryOfSport.resources
+C:\Users\DELL\Desktop\salleSportV2\salleSport\obj\Debug\salleSport.configuration.resources
+C:\Users\DELL\Desktop\salleSportV2\salleSport\obj\Debug\salleSport.createUser.resources
+C:\Users\DELL\Desktop\salleSportV2\salleSport\obj\Debug\salleSport.payement.resources
+C:\Users\DELL\Desktop\salleSportV2\salleSport\obj\Debug\salleSport.login.resources
+C:\Users\DELL\Desktop\salleSportV2\salleSport\obj\Debug\salleSport.addAdhrent.resources
+C:\Users\DELL\Desktop\salleSportV2\salleSport\obj\Debug\salleSport.menu.resources
+C:\Users\DELL\Desktop\salleSportV2\salleSport\obj\Debug\salleSport.Properties.Resources.resources
+C:\Users\DELL\Desktop\salleSportV2\salleSport\obj\Debug\salleSport.updatList.resources
+C:\Users\DELL\Desktop\salleSportV2\salleSport\obj\Debug\salleSport.updatloginUser.resources
+C:\Users\DELL\Desktop\salleSportV2\salleSport\obj\Debug\salleSport.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\salleSportV2\salleSport\obj\Debug\salleSport.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\salleSportV2\salleSport\obj\Debug\salleSport.csproj.CopyComplete
+C:\Users\DELL\Desktop\salleSportV2\salleSport\obj\Debug\salleSport.exe
+C:\Users\DELL\Desktop\salleSportV2\salleSport\obj\Debug\salleSport.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\DatabaseGYM.mdf
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\DatabaseGYM_log.ldf
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\App.config
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\salleSport.exe.config
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\salleSport.exe
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\salleSport.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Grpc.Core.Api.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Grpc.Core.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\System.Memory.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Grpc.Core.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Grpc.Core.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Grpc.Core.Api.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Assessment.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.SqlParser.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.SqlParser.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Smo.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\System.Memory.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\obj\Debug\salleSport.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\obj\Debug\salleSport.exe.config
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\obj\Debug\salleSport.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\obj\Debug\salleSport.backUp.resources
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\obj\Debug\salleSport.categoryOfSport.resources
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\obj\Debug\salleSport.configuration.resources
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\obj\Debug\salleSport.createUser.resources
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\obj\Debug\salleSport.payement.resources
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\obj\Debug\salleSport.login.resources
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\obj\Debug\salleSport.addAdhrent.resources
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\obj\Debug\salleSport.menu.resources
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\obj\Debug\salleSport.Properties.Resources.resources
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\obj\Debug\salleSport.updatList.resources
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\obj\Debug\salleSport.updatloginUser.resources
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\obj\Debug\salleSport.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\obj\Debug\salleSport.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\obj\Debug\salleSport.csproj.CopyComplete
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\obj\Debug\salleSport.exe
+C:\Users\DELL\Desktop\salleSportV2\salleSport 66\obj\Debug\salleSport.pdb
+D:\GitHub\salleSport 77\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\GitHub\salleSport 77\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\GitHub\salleSport 77\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\GitHub\salleSport 77\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\GitHub\salleSport 77\bin\Debug\grpc_csharp_ext.x86.dll
+D:\GitHub\salleSport 77\bin\Debug\grpc_csharp_ext.x64.dll
+D:\GitHub\salleSport 77\bin\Debug\libgrpc_csharp_ext.x64.so
+D:\GitHub\salleSport 77\bin\Debug\libgrpc_csharp_ext.x64.dylib
+D:\GitHub\salleSport 77\bin\Debug\DatabaseGYM.mdf
+D:\GitHub\salleSport 77\bin\Debug\DatabaseGYM_log.ldf
+D:\GitHub\salleSport 77\bin\Debug\App.config
+D:\GitHub\salleSport 77\bin\Debug\salleSport.exe.config
+D:\GitHub\salleSport 77\bin\Debug\salleSport.exe
+D:\GitHub\salleSport 77\bin\Debug\salleSport.pdb
+D:\GitHub\salleSport 77\bin\Debug\EntityFramework.dll
+D:\GitHub\salleSport 77\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\salleSport 77\bin\Debug\Grpc.Core.Api.dll
+D:\GitHub\salleSport 77\bin\Debug\Grpc.Core.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.Identity.Client.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Assessment.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Assessment.Types.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.HadrData.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.HadrModel.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Smo.Notebook.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\GitHub\salleSport 77\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\salleSport 77\bin\Debug\System.Buffers.dll
+D:\GitHub\salleSport 77\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\GitHub\salleSport 77\bin\Debug\System.Memory.dll
+D:\GitHub\salleSport 77\bin\Debug\System.Numerics.Vectors.dll
+D:\GitHub\salleSport 77\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\GitHub\salleSport 77\bin\Debug\EntityFramework.xml
+D:\GitHub\salleSport 77\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\salleSport 77\bin\Debug\Grpc.Core.pdb
+D:\GitHub\salleSport 77\bin\Debug\Grpc.Core.xml
+D:\GitHub\salleSport 77\bin\Debug\Grpc.Core.Api.pdb
+D:\GitHub\salleSport 77\bin\Debug\Grpc.Core.Api.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.Data.Tools.Sql.BatchParser.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.Identity.Client.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Assessment.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Assessment.Types.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.ConnectionInfo.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Dmf.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Dmf.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Dmf.Common.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.Assessment.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.Assessment.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.Collector.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.HadrData.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.HadrData.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.HadrModel.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.HadrModel.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.SmoMetadataProvider.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.SqlParser.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.SqlParser.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.SqlScriptPublish.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.XEvent.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.RegSvrEnum.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Smo.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Smo.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Smo.Notebook.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.Smo.Notebook.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.SmoExtended.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.SqlClrProvider.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.SqlEnum.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.WmiEnum.pdb
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\GitHub\salleSport 77\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\GitHub\salleSport 77\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\salleSport 77\bin\Debug\System.Buffers.xml
+D:\GitHub\salleSport 77\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\GitHub\salleSport 77\bin\Debug\System.Memory.xml
+D:\GitHub\salleSport 77\bin\Debug\System.Numerics.Vectors.xml
+D:\GitHub\salleSport 77\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GitHub\salleSport 77\bin\Debug\fr\EntityFramework.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\fr\EntityFramework.SqlServer.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\salleSport 77\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GitHub\salleSport 77\obj\Debug\salleSport.csproj.AssemblyReference.cache
+D:\GitHub\salleSport 77\obj\Debug\salleSport.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\salleSport 77\obj\Debug\salleSport.exe.config
+D:\GitHub\salleSport 77\obj\Debug\salleSport.csproj.ResolveComReference.cache
+D:\GitHub\salleSport 77\obj\Debug\salleSport.backUp.resources
+D:\GitHub\salleSport 77\obj\Debug\salleSport.categoryOfSport.resources
+D:\GitHub\salleSport 77\obj\Debug\salleSport.configuration.resources
+D:\GitHub\salleSport 77\obj\Debug\salleSport.createUser.resources
+D:\GitHub\salleSport 77\obj\Debug\salleSport.payement.resources
+D:\GitHub\salleSport 77\obj\Debug\salleSport.login.resources
+D:\GitHub\salleSport 77\obj\Debug\salleSport.addAdhrent.resources
+D:\GitHub\salleSport 77\obj\Debug\salleSport.menu.resources
+D:\GitHub\salleSport 77\obj\Debug\salleSport.Properties.Resources.resources
+D:\GitHub\salleSport 77\obj\Debug\salleSport.updatList.resources
+D:\GitHub\salleSport 77\obj\Debug\salleSport.updatloginUser.resources
+D:\GitHub\salleSport 77\obj\Debug\salleSport.csproj.GenerateResource.cache
+D:\GitHub\salleSport 77\obj\Debug\salleSport.csproj.CoreCompileInputs.cache
+D:\GitHub\salleSport 77\obj\Debug\salleSport.csproj.Up2Date
+D:\GitHub\salleSport 77\obj\Debug\salleSport.exe
+D:\GitHub\salleSport 77\obj\Debug\salleSport.pdb

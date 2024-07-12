@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="gestionSalleSprortModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Erreurs détectées durant la génération :
+avertissement 6002: La table/vue 'gestionSalleSprort.dbo.Adherent' n'a pas de clé primaire définie. La clé a été déduite et la définition a été créée en tant que table/vue en lecture seule.-->
+  <EntityType Name="Adherent">
+    <Key>
+      <PropertyRef Name="idAdh" />
+    </Key>
+    <Property Name="idAdh" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nomAdh" Type="nvarchar" MaxLength="50" />
+    <Property Name="prenomAdh" Type="nvarchar" MaxLength="50" />
+    <Property Name="adress" Type="nvarchar" MaxLength="50" />
+    <Property Name="telephone" Type="nvarchar" MaxLength="50" />
+    <Property Name="sexe" Type="nvarchar" MaxLength="50" />
+    <Property Name="pic" Type="image" />
+    <Property Name="dateNextPayement" Type="date" />
+    <Property Name="datePayement" Type="date" />
+    <Property Name="dateInscription" Type="date" />
+    <Property Name="nbrMonth" Type="int" />
+    <Property Name="sommePaye" Type="float" />
+  </EntityType>
+  <EntityType Name="utilisateur">
+    <Key>
+      <PropertyRef Name="username" />
+    </Key>
+    <Property Name="licenceType" Type="varchar" MaxLength="10" />
+    <Property Name="username" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="motDePasse" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="gestionSalleSprortModelStoreContainer">
+    <EntitySet Name="utilisateur" EntityType="Self.utilisateur" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Adherent" EntityType="Self.Adherent" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Adherent].[idAdh] AS [idAdh], 
+    [Adherent].[nomAdh] AS [nomAdh], 
+    [Adherent].[prenomAdh] AS [prenomAdh], 
+    [Adherent].[adress] AS [adress], 
+    [Adherent].[telephone] AS [telephone], 
+    [Adherent].[sexe] AS [sexe], 
+    [Adherent].[pic] AS [pic], 
+    [Adherent].[dateNextPayement] AS [dateNextPayement], 
+    [Adherent].[datePayement] AS [datePayement], 
+    [Adherent].[dateInscription] AS [dateInscription], 
+    [Adherent].[nbrMonth] AS [nbrMonth], 
+    [Adherent].[sommePaye] AS [sommePaye]
+    FROM [dbo].[Adherent] AS [Adherent]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>
