@@ -85,7 +85,26 @@ namespace salleSport
 
         private void btn_backup_Click(object sender, EventArgs e)
         {
-            try { if (txt_foder_backup.Text == "") { MessageBox.Show("choisi le Chemin de deplacement de cette Sauvegarde"); btn_browser.BackColor = Color.Gray; return; } progressBar1.Value = 70; lb_progress.Text = "70 %"; cn.Open(); string backupName = "\\SAUVGARDE" + "_" + DateTime.Now.ToString("ddMMyyyy_HH.mm.ss") + ".bak"; string req = "BACKUP DATABASE [" + cn.Database + "] TO DISK = N'" + txt_foder_backup.Text + backupName + "'"; SqlCommand cmd = new SqlCommand(req, cn); cmd.ExecuteNonQuery(); cn.Close(); lb_progress.Text = "Sauvegarde est bien fait ...."; progressBar1.Value = 100; } catch (Exception ex) { MessageBox.Show(ex.Message); }
+            try
+            {
+                if (txt_foder_backup.Text == "")
+                {
+                    MessageBox.Show("choisi le Chemin de deplacement de cette Sauvegarde");
+                    btn_browser.BackColor = Color.Gray;
+                    return;
+                }
+                progressBar1.Value = 70;
+                lb_progress.Text = "70 %";
+                cn.Open();
+                string backupName = "\\SAUVGARDE" + "_" + DateTime.Now.ToString("ddMMyyyy_HH.mm.ss") + ".bak";
+                string req = "BACKUP DATABASE [" + cn.Database + "] TO DISK = N'" + txt_foder_backup.Text + backupName + "'";
+                SqlCommand cmd = new SqlCommand(req, cn);
+                cmd.ExecuteNonQuery();
+                cn.Close();
+                lb_progress.Text = "Sauvegarde est bien fait ....";
+                progressBar1.Value = 100;
+            }
+            catch (Exception ex) { MessageBox.Show(ex.Message); }
         }
 
 

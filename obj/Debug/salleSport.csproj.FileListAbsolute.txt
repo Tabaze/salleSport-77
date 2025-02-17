@@ -1122,8 +1122,6 @@ D:\GitHub\salleSport 77\bin\Debug\grpc_csharp_ext.x86.dll
 D:\GitHub\salleSport 77\bin\Debug\grpc_csharp_ext.x64.dll
 D:\GitHub\salleSport 77\bin\Debug\libgrpc_csharp_ext.x64.so
 D:\GitHub\salleSport 77\bin\Debug\libgrpc_csharp_ext.x64.dylib
-D:\GitHub\salleSport 77\bin\Debug\DatabaseGYM.mdf
-D:\GitHub\salleSport 77\bin\Debug\DatabaseGYM_log.ldf
 D:\GitHub\salleSport 77\bin\Debug\App.config
 D:\GitHub\salleSport 77\bin\Debug\salleSport.exe.config
 D:\GitHub\salleSport 77\bin\Debug\salleSport.exe
@@ -1311,3 +1309,10 @@ D:\GitHub\salleSport 77\obj\Debug\salleSport.csproj.CoreCompileInputs.cache
 D:\GitHub\salleSport 77\obj\Debug\salleSport.csproj.Up2Date
 D:\GitHub\salleSport 77\obj\Debug\salleSport.exe
 D:\GitHub\salleSport 77\obj\Debug\salleSport.pdb
+D:\GitHub\salleSport 77\bin\Debug\salleSport.exe.manifest
+D:\GitHub\salleSport 77\bin\Debug\salleSport.application
+D:\GitHub\salleSport 77\obj\Debug\salleSport.TrustInfo.xml
+D:\GitHub\salleSport 77\obj\Debug\salleSport.exe.manifest
+D:\GitHub\salleSport 77\obj\Debug\salleSport.application
+D:\GitHub\salleSport 77\bin\Debug\dentist.mdf
+D:\GitHub\salleSport 77\bin\Debug\dentist_log.LDF
